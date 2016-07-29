@@ -1,6 +1,6 @@
 {
   "name": "g0",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple syntax parser for Arithmetic Expressions",
   "main": "g0_parser.js",
   "scripts": {
