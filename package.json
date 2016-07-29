@@ -1,0 +1,23 @@
+{
+  "name": "g0",
+  "version": "0.0.1",
+  "description": "A simple syntax parser for Arithmetic Expressions",
+  "main": "g0_parser.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmillhj/g0.git"
+  },
+  "author": "Hunter McMillen <mcmillhj+npm@gmail.com> (https://blog.hjm.im)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcmillhj/g0/issues"
+  },
+  "homepage": "https://github.com/mcmillhj/g0#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
