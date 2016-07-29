@@ -4,11 +4,11 @@ A simple parser for arithmetic expressions. Supports positive and negative integ
 
 ## Installation
 
-    npm install @mcmillhj/g0
+    npm install g0
 
 ## Usage
 
-    var parser = require('@mcmillhj/g0');
+    var parse = require('g0');
 
     parse('a + b + 5');
     // Expression 'a + b + 5' was a valid arithmetic expression
